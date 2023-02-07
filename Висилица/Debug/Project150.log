@@ -1,0 +1,9 @@
+﻿  Basic.cpp
+C:\Users\User\Desktop\домашняя работа\Виселица\Basic.cpp(29,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Gallows1.cpp
+C:\Users\User\Desktop\домашняя работа\Виселица\Gallows1.cpp(218,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\домашняя работа\Виселица\Gallows1.cpp(237,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\домашняя работа\Виселица\Gallows1.cpp(250,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\User\Desktop\домашняя работа\Виселица\Gallows1.cpp(492): warning C4715: game2: значение возвращается не при всех путях выполнения
+  Project150.vcxproj -> C:\Users\User\Desktop\домашняя работа\Виселица\Debug\Gallows.exe

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\14.Доманяя работа по WF\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\14.Доманяя работа по WF\Labirint\bin\Debug\Labirint.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\14.Доманяя работа по WF\Labirint\bin\Debug\Labirint.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\14.Доманяя работа по WF\Labirint\obj\Debug\Labirint.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\14.Доманяя работа по WF\Labirint\obj\Debug\Labirint.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\14.Доманяя работа по WF\Labirint\obj\Debug\Labirint.MainForm.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\14.Доманяя работа по WF\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\14.Доманяя работа по WF\Labirint\obj\Debug\Labirint.csproj.GenerateResource.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\14.Доманяя работа по WF\Labirint\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\14.Доманяя работа по WF\Labirint\obj\Debug\Labirint.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\14.Доманяя работа по WF\Labirint\obj\Debug\Labirint.pdb

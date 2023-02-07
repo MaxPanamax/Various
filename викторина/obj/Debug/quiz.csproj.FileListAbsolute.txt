@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\домашняя работа\викторина\obj\Debug\quiz.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\викторина\obj\Debug\quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\домашняя работа\викторина\obj\Debug\quiz.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашняя работа\викторина\bin\Debug\quiz.exe.config
+C:\Users\User\Desktop\домашняя работа\викторина\bin\Debug\quiz.exe
+C:\Users\User\Desktop\домашняя работа\викторина\bin\Debug\quiz.pdb
+C:\Users\User\Desktop\домашняя работа\викторина\obj\Debug\quiz.exe
+C:\Users\User\Desktop\домашняя работа\викторина\obj\Debug\quiz.pdb

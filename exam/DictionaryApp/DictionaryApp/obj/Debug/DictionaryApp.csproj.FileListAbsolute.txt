@@ -1,0 +1,15 @@
+C:\Users\dguli\source\repos\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.exe.config
+C:\Users\dguli\source\repos\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.exe
+C:\Users\dguli\source\repos\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.pdb
+C:\Users\dguli\source\repos\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csproj.AssemblyReference.cache
+C:\Users\dguli\source\repos\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csproj.CoreCompileInputs.cache
+C:\Users\dguli\source\repos\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.exe
+C:\Users\dguli\source\repos\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.pdb
+C:\Users\217 student\Downloads\exam\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.exe.config
+C:\Users\217 student\Downloads\exam\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.exe
+C:\Users\217 student\Downloads\exam\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.pdb
+C:\Users\217 student\Downloads\exam\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csproj.AssemblyReference.cache
+C:\Users\217 student\Downloads\exam\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\217 student\Downloads\exam\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csproj.CoreCompileInputs.cache
+C:\Users\217 student\Downloads\exam\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.exe
+C:\Users\217 student\Downloads\exam\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.pdb

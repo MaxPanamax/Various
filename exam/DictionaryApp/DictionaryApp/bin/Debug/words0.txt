@@ -1,0 +1,10 @@
+apple
+banana
+watermelon
+application
+snake
+sugar
+salt
+bubble
+fine
+choice
